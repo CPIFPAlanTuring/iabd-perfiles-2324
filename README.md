@@ -19,12 +19,12 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [García Domínguez, Andrés](https://github.com/usuario-de-github)
 * [González Ruiz, Miguel](https://github.com/usuario-de-github)
 * [López González, Francisco](https://github.com/usuario-de-github)
-* [Martín Díaz, Christian](https://github.com/usuario-de-github)
+* [Martín Díaz, Christian](https://github.com/chrismartindiaz)
 * [Medina Díaz, Juan José](https://github.com/usuario-de-github)
 * [Moreno González, Alberto](https://github.com/usuario-de-github)
-* [Rojo Santos, Guillermo](https://github.com/usuario-de-github)
+* [Rojo Santos, Guillermo](https://github.com/GuillermoRojoSantos)
 * [Sánchez Sánchez, María Eugenia](https://github.com/usuario-de-github)
-* [Santos Quirce, Pablo](https://github.com/usuario-de-github)
+* [Santos Quirce, Pablo](https://github.com/pabloquirce23)
 
 
 
