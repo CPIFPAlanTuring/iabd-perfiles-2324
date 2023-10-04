@@ -18,7 +18,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [Fernández Romero, Alejandro](https://github.com/usuario-de-github)
 * [García Domínguez, Andrés](https://github.com/usuario-de-github)
 * [González Ruiz, Miguel](https://github.com/usuario-de-github)
-* [López González, Francisco](https://github.com/usuario-de-github)
+* [López González, Francisco](https://github.com/franciscolg13)
 * [Martín Díaz, Christian](https://github.com/usuario-de-github)
 * [Medina Díaz, Juan José](https://github.com/usuario-de-github)
 * [Moreno González, Alberto](https://github.com/usuario-de-github)
